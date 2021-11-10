@@ -8,7 +8,6 @@ class Machine:
     #storage of all the states and their edges
     self.bank = []
     self.uniqueEdges = []
-
   
   def header(self, text):
     self.headerString = text
